@@ -130,25 +130,33 @@ Types of paradigm javascript can do
 ## Where to go next?
 > From where you can get updates and news
 
-- References
+- References 📜
+
     - [ES6 features](http://es6-features.org) - One site combines the most important features.
     - [ES2015+ cheatsheet](https://devhints.io/es6)
+    - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
+    - [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+
+- Books 📚
+
+    - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+    - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+    - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
+
+- Courses 📀
+
+    - [JavaScript 30](https://javascript30.com/)
+    - [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba
+    - 💲 [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - Intermediate to Advanced
+    - 💲 [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+    - 💲 [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - Bigener
+
 
 - Blogs 📃
+
     - [javascript scene](https://medium.com/javascript-scene)
     - [Weekly Webtips](https://www.webtips.dev/)
     - [Free Code Camp](https://www.freecodecamp.org/news/)
     - [Hacks Mozilla](https://hacks.mozilla.org/)
     - [Google Dev](https://web.dev/)
 
-- Books 📚
-    - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
-    - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
-    - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
-
-- Courses 📀
-    - [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba
-
-- Paths 🛣
-    - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
-    - [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
