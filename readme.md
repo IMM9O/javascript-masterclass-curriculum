@@ -1,4 +1,3 @@
-
 ## Interview
 
 - [javascript questions](https://github.com/lydiahallie/javascript-questions)
@@ -7,6 +6,7 @@
 ## Fundamentals
 
 - JavaScript Types
+
   - Number
   - Bigint
   - String
@@ -16,6 +16,10 @@
   - Arrays
   - Objects
   - Symbol
+
+- [Learning Advanced JavaScript](https://johnresig.com/apps/learn/)
+- [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
+- [7 tips to handle undefined in JavaScript](https://rainsoft.io/7-tips-to-handle-undefined-in-javascript/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ## JavaScript Functions
 
@@ -31,23 +35,29 @@ Types of functions in javascript
 
 ## Programming Paradigm
 
-Types of paradigm javascript can do
+#### Object-oriented programming
 
-- Functional programming
-- object oriented programming
-- procedural programming
+> Object-oriented programming is a programming paradigm based on the concept of "objects", which can contain data and code: data in the form of fields, and code, in the form of procedures. A feature of objects is that an object's own procedures can access and often modify the data fields of itself.
+
+- [Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8) - Mosh
+- [Understanding JavaScript OOP](https://robotlolita.me/articles/2011/understanding-javascript-oop/)
+- [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+
+#### Functional programming
 
 > Functional programming (often abbreviated FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Functional programming is declarative rather than imperative, and application state flows through pure functions.
 
+- [JavaScript Callbacks Explained Using Minions](https://medium.freecodecamp.org/javascript-callbacks-explained-using-minions-da272f4d9bcd)
+- [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+- [Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY) - JSUnconf
 - [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
 - [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-
-* [Understanding Immutability in JavaScript](https://css-tricks.com/understanding-immutability-in-javascript/)
-* [Four Ways to Immutability in JavaScript](https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l)
-* [How to Deep Copy Objects and Arrays in JavaScript](https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arrays-in-javascript-7c911359b089)
-
-* [What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
-* [What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
+- [What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+- [What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
+- [Understanding Immutability in JavaScript](https://css-tricks.com/understanding-immutability-in-javascript/)
+- [Four Ways to Immutability in JavaScript](https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l)
+- [How to Deep Copy Objects and Arrays in JavaScript](https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arrays-in-javascript-7c911359b089)
 
 ## JavaScript Asynchronous
 
@@ -56,11 +66,12 @@ Types of paradigm javascript can do
 - Async/Await
 
 - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [The Async Await Episode I Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)
 
 ## JavaScript Code quality
 
 - [Clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
+- [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 
 ## JavaScript Data Structures & Algorithms
 
@@ -106,7 +117,9 @@ Types of paradigm javascript can do
 
 - [🚀⚙️ JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-
+- [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/)
+- [What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - JSConf EU
+- [Jake Archibald: In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) - JSConf.Asia
 
 ## Web API
 
@@ -126,37 +139,48 @@ Types of paradigm javascript can do
   - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
   - [Mozilla Service Worker Guid](https://serviceworke.rs/)
 
+## JavaScript Frameworks & Libraries
+
+- [The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
+
+## JavaScript flavor
+
+- ["TypeScript Evolution" series](https://blog.mariusschulz.com/2016/09/27/typescript-2-0-non-nullable-types)
+
 
 ## Where to go next?
+
 > From where you can get updates and news
 
 - References 📜
 
-    - [ES6 features](http://es6-features.org) - One site combines the most important features.
-    - [ES2015+ cheatsheet](https://devhints.io/es6)
-    - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
-    - [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+  - [ES6 features](http://es6-features.org) - One site combines the most important features.
+  - [ES2015+ cheatsheet](https://devhints.io/es6)
+  - [Top JavaScript Libraries & Tech to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9) - Eric Elliott
+  - [Top JavaScript Libraries & Tech to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9) - Eric Elliott
+  - [Top JavaScript Libraries & Tech to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20) - Eric Elliott
+  - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6) - Eric Elliott
+  - [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711) - Eric Elliott
+  - [Modern JavaScript for Ancient Web Developers](https://postlight.com/insights/modern-javascript-for-ancient-web-developers)
 
 - Books 📚
 
-    - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
-    - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
-    - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
+  - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+  - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+  - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
 
 - Courses 📀
 
-    - [JavaScript 30](https://javascript30.com/)
-    - [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba
-    - 💲 [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - Intermediate to Advanced
-    - 💲 [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
-    - 💲 [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - Bigener
-
+  - [JavaScript 30](https://javascript30.com/)
+  - [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba
+  - 💲 [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - Intermediate to Advanced
+  - 💲 [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+  - 💲 [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - Bigener
 
 - Blogs 📃
 
-    - [javascript scene](https://medium.com/javascript-scene)
-    - [Weekly Webtips](https://www.webtips.dev/)
-    - [Free Code Camp](https://www.freecodecamp.org/news/)
-    - [Hacks Mozilla](https://hacks.mozilla.org/)
-    - [Google Dev](https://web.dev/)
-
+  - [javascript scene](https://medium.com/javascript-scene)
+  - [Weekly Webtips](https://www.webtips.dev/)
+  - [Free Code Camp](https://www.freecodecamp.org/news/)
+  - [Hacks Mozilla](https://hacks.mozilla.org/)
+  - [Google Dev](https://web.dev/)
