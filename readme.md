@@ -1,3 +1,10 @@
+# javascript masterclass curriculum
+
+<p style="text-align: center;">
+  <img src="https://images.unsplash.com/photo-1517446915321-65e972f1b494?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="Photo by Paula May on Unsplash">
+  <p style="text-align: center;">Photo by <a href="https://unsplash.com/@paulamayphotography">Paula May</a> on <a href="https://unsplash.com/">Unsplash</a></p>
+</p>
+
 ## Interview
 
 - [javascript questions](https://github.com/lydiahallie/javascript-questions)
@@ -5,41 +12,26 @@
 
 ## Fundamentals
 
-- JavaScript Types
-
-  - Number
-  - Bigint
-  - String
-  - Boolean
-  - Null
-  - Undefined
-  - Arrays
-  - Objects
-  - Symbol
-
 - [Learning Advanced JavaScript](https://johnresig.com/apps/learn/)
 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 - [7 tips to handle undefined in JavaScript](https://rainsoft.io/7-tips-to-handle-undefined-in-javascript/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-## JavaScript Functions
-
-Types of functions in javascript
-
-- Declaration Function
-- Expression Function
-- Arrow Function
-- Constructor Function
-- Method Function
-
-* [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 
 ## Programming Paradigm
+
+> Before you going deep inside this topic you need to understand arrays, object and functions that shape the Programming Paradigm
+
+- [An Encounter with JavaScript Objects](https://www.youtube.com/watch?v=napDjGFjHR0) - Fireship
+* [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 
 #### Object-oriented programming
 
 > Object-oriented programming is a programming paradigm based on the concept of "objects", which can contain data and code: data in the form of fields, and code, in the form of procedures. A feature of objects is that an object's own procedures can access and often modify the data fields of itself.
 
 - [Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8) - Mosh
+- [JavaScript OOP Crash Course (ES5 & ES6)](https://www.youtube.com/watch?v=vDJpGenyHaA) - Traversy Media  
+- [Object-oriented Programming in JavaScript: Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk) - Mosh
+- [Object Oriented vs Functional Programming with TypeScript](https://www.youtube.com/watch?v=fsVL_xrYO0w) - Fireship
 - [Understanding JavaScript OOP](https://robotlolita.me/articles/2011/understanding-javascript-oop/)
 - [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 
@@ -47,6 +39,7 @@ Types of functions in javascript
 
 > Functional programming (often abbreviated FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Functional programming is declarative rather than imperative, and application state flows through pure functions.
 
+- [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE) - Traversy Media
 - [JavaScript Callbacks Explained Using Minions](https://medium.freecodecamp.org/javascript-callbacks-explained-using-minions-da272f4d9bcd)
 - [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
@@ -123,18 +116,27 @@ Types of functions in javascript
 
 ## Web API
 
-- DOM
-- Animation
-- Time & Date
-- Drag & Drop
-- Network request
-- Payment
-- Audio/Video
-- Web Storage
-- Web Component
-- Files API
+#### DOM
 
-- Progressive web app (PWA)
+#### Animation
+
+#### Time & Date
+
+#### Drag & Drop
+
+#### Network request
+
+#### Payment
+
+#### Audio/Video
+
+#### Web Storage
+
+#### Web Component
+
+#### Files API
+
+#### Progressive web app (PWA)
 
   - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
   - [Mozilla Service Worker Guid](https://serviceworke.rs/)
@@ -154,9 +156,9 @@ Types of functions in javascript
 
 - References 📜
 
+  - [javascript.info](https://javascript.info/)
   - [ES6 features](http://es6-features.org) - One site combines the most important features.
   - [ES2015+ cheatsheet](https://devhints.io/es6)
-  - [Top JavaScript Libraries & Tech to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9) - Eric Elliott
   - [Top JavaScript Libraries & Tech to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9) - Eric Elliott
   - [Top JavaScript Libraries & Tech to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20) - Eric Elliott
   - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6) - Eric Elliott
@@ -179,6 +181,10 @@ Types of functions in javascript
 
 - Blogs 📃
 
+  - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+  - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+  - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+  - [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
   - [javascript scene](https://medium.com/javascript-scene)
   - [Weekly Webtips](https://www.webtips.dev/)
   - [Free Code Camp](https://www.freecodecamp.org/news/)
