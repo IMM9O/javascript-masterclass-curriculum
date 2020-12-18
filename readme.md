@@ -34,6 +34,7 @@
 - [Object Oriented vs Functional Programming with TypeScript](https://www.youtube.com/watch?v=fsVL_xrYO0w) - Fireship
 - [Understanding JavaScript OOP](https://robotlolita.me/articles/2011/understanding-javascript-oop/)
 - [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+- [Modular Javascript](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
 
 #### Functional programming
 
@@ -54,11 +55,10 @@
 
 ## JavaScript Asynchronous
 
-- Callback
-- Promise
-- Async/Await
+> 
 
 - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
 - [The Async Await Episode I Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)
 
 ## JavaScript Code quality
@@ -116,15 +116,33 @@
 
 ## Web API
 
-#### DOM
+Before you discover this topic please check this website [WHAT WEB CAN DO TODAY?](https://whatwebcando.today/)
 
+#### DOM & Event Listeners API
+
+- [JavaScript DOM Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+- [Learn DOM Manipulation In 18 Minutes](https://www.youtube.com/watch?v=y17RuWkWdn8)
+- [Learn JavaScript DOM Traversal In 15 Minutes](https://www.youtube.com/watch?v=v7rSSy8CaYE)
+- [Learn JavaScript Event Listeners In 18 Minutes](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
+
+#### Network request
+
+> When we need to reach out to the network for requests, there are many protocols to communicate with the server like http, websocket, or webRTC, and the browsers offer many native options using those protocols like XMLHttpRequest, Fetch API, and websocket.
+
+- [AJAX Crash Course (Vanilla JavaScript)](https://www.youtube.com/watch?v=82hnvUYY6QA) - Traversy Media
+- [Fetch API Introduction](https://www.youtube.com/watch?v=Oive66jrwBs) - Traversy Media
+- [Axios Crash Course | HTTP Library](https://www.youtube.com/watch?v=6LyagkoRWYA) - Traversy Media
+- [Sending JavaScript Http Requests with XMLHttpRequest](https://www.youtube.com/watch?v=4K33w-0-p2c) - Academind
+- [Sending JavaScript Http Requests with the fetch() API](https://www.youtube.com/watch?v=23hrM4saaMk) - Academind
+- [Sending JavaScript Http Requests with Axios](https://www.youtube.com/watch?v=qM4G1Ai2ZpE) - Academind
 #### Animation
 
 #### Time & Date
 
+- [Natively Format JavaScript Dates and Times](https://elijahmanor.com/blog/format-js-dates-and-times)
+
 #### Drag & Drop
 
-#### Network request
 
 #### Payment
 
@@ -138,11 +156,13 @@
 
 #### Progressive web app (PWA)
 
-  - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
-  - [Mozilla Service Worker Guid](https://serviceworke.rs/)
+- [Progressive Web Apps in 100 Seconds // Build a PWA from Scratch](https://www.youtube.com/watch?v=sFsRylCQblw)
+- [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+- [Mozilla Service Worker Guid](https://serviceworke.rs/)
 
 ## JavaScript Frameworks & Libraries
 
+- [Change And Its Detection In JavaScript Frameworks](https://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
 - [The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
 
 ## JavaScript flavor
