@@ -10,19 +10,26 @@
 - [javascript questions](https://github.com/lydiahallie/javascript-questions)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
-## Fundamentals
+## The Core Module
+
+> Learn the syntax and how javascript work
 
 - [Learning Advanced JavaScript](https://johnresig.com/apps/learn/)
 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 - [7 tips to handle undefined in JavaScript](https://rainsoft.io/7-tips-to-handle-undefined-in-javascript/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [🚀⚙️ JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/)
+- [What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - JSConf EU
+- [Jake Archibald: In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) - JSConf.Asia
 
 
-## Programming Paradigm
+## Programming Paradigm Module
 
 > Before you going deep inside this topic you need to understand arrays, object and functions that shape the Programming Paradigm
 
 - [An Encounter with JavaScript Objects](https://www.youtube.com/watch?v=napDjGFjHR0) - Fireship
-* [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
+- [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 
 #### Object-oriented programming
 
@@ -53,7 +60,7 @@
 - [Four Ways to Immutability in JavaScript](https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l)
 - [How to Deep Copy Objects and Arrays in JavaScript](https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arrays-in-javascript-7c911359b089)
 
-## JavaScript Asynchronous
+## JavaScript Asynchronous Module
 
 > 
 
@@ -61,17 +68,17 @@
 - [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
 - [The Async Await Episode I Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)
 
-## JavaScript Code quality
+## Code quality
 
 - [Clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 
-## JavaScript Data Structures & Algorithms
+## Data Structures & Algorithms
 
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [JS: Sorting Algorithm](http://khan4019.github.io/front-end-Interview-Questions/sort.html)
 
-## JavaScript Design pattern
+## Design pattern
 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) _A book by Addy Osmani_
 - [JavaScript design patterns for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
@@ -106,13 +113,6 @@
 - Babeljs
 - Browserfiy
 
-## JavaScript Engine (how javascript work)
-
-- [🚀⚙️ JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
-- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-- [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/)
-- [What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - JSConf EU
-- [Jake Archibald: In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) - JSConf.Asia
 
 ## Web API
 
@@ -152,13 +152,26 @@ Before you discover this topic please check this website [WHAT WEB CAN DO TODAY?
 
 #### Web Component
 
+- 📼 [Web Components Crash Course](https://www.youtube.com/watch?v=PCWaFLy3VUo) - Traversy Media
+- 📼 [Building a REAL Web Component from Scratch! - Tutorial](https://www.youtube.com/watch?v=mNtLjzzxGQM) - DesignCourse
+- 💲 [Web Components & Stencil.js - Build Custom HTML Elements](https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements/)
+
 #### Files API
+
+#### WebRTC
+
+- [How To Create A Video Chat App With WebRTC](https://www.youtube.com/watch?v=DvlyzDZDEq4) - Web Dev Simplified
 
 #### Progressive web app (PWA)
 
-- [Progressive Web Apps in 100 Seconds // Build a PWA from Scratch](https://www.youtube.com/watch?v=sFsRylCQblw)
-- [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
-- [Mozilla Service Worker Guid](https://serviceworke.rs/)
+- 📼 [Progressive Web Apps in 100 Seconds // Build a PWA from Scratch](https://www.youtube.com/watch?v=sFsRylCQblw) - Fireship
+- 📼 [7 Web Features You Didn’t Know Existed](https://www.youtube.com/watch?v=ppwagkhrZJs) - Fireship
+- 📼 [PWA to Google Play Store with Trusted Web Activities (TWA)](https://www.youtube.com/watch?v=7JDFjeMvxos) - Fireship
+- 🧵 [PWA Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7) - The net ninja
+- 🧵 [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh) - Google Chrome Developer
+- 💲 [Progressive Web Apps (PWA) - The Complete Guide](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/)
+- 🔖 [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+- 🔖 [Mozilla Service Worker Guid](https://serviceworke.rs/)
 
 ## JavaScript Frameworks & Libraries
 
@@ -172,41 +185,32 @@ Before you discover this topic please check this website [WHAT WEB CAN DO TODAY?
 
 ## Where to go next?
 
-> From where you can get updates and news
+#### References 📜
 
-- References 📜
+> Sticky posts, articles and websites 📌
 
+  - [MDN Dev](https://developer.mozilla.org/en-US/)
   - [javascript.info](https://javascript.info/)
-  - [ES6 features](http://es6-features.org) - One site combines the most important features.
-  - [ES2015+ cheatsheet](https://devhints.io/es6)
-  - [Top JavaScript Libraries & Tech to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9) - Eric Elliott
-  - [Top JavaScript Libraries & Tech to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20) - Eric Elliott
-  - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6) - Eric Elliott
-  - [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711) - Eric Elliott
   - [Modern JavaScript for Ancient Web Developers](https://postlight.com/insights/modern-javascript-for-ancient-web-developers)
 
-- Books 📚
+#### Books & Courses 📀📚
 
-  - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
-  - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
-  - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
+> Learn javascript in depth.
 
-- Courses 📀
-
+  - 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
+  - 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
+  - 📕 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   - [JavaScript 30](https://javascript30.com/)
-  - [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba
-  - 💲 [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - Intermediate to Advanced
-  - 💲 [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+  - [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript)
   - 💲 [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - Bigener
+  - 💲 [JavaScript - The Complete Guide 2020](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) - Beginner + Advanced
+  - 💲 [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - Intermediate + Advanced
 
-- Blogs 📃
 
-  - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-  - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-  - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-  - [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
-  - [javascript scene](https://medium.com/javascript-scene)
-  - [Weekly Webtips](https://www.webtips.dev/)
-  - [Free Code Camp](https://www.freecodecamp.org/news/)
-  - [Hacks Mozilla](https://hacks.mozilla.org/)
+#### Blogs, Podcast 🎙, Newsletter 📫 & Conferences 📢
+
+> Keep yourself updated with the latest news about web development.
+
   - [Google Dev](https://web.dev/)
+  - [Free Code Camp](https://www.freecodecamp.org/news/)
+  - [javascript scene](https://medium.com/javascript-scene)
