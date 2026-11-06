@@ -297,7 +297,6 @@ A page talks to a server over HTTP, WebSocket, or WebRTC. The browser gives you 
 - 📕 [Learning JavaScript Design Patterns](https://patterns.addy.ie/) - Addy Osmani.
 - 📜 [JavaScript Design Patterns for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - Soham Kamani.
 - 📜 [Understanding MVC and MVP (For JavaScript and Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/) - Addy Osmani.
-- 📜 [Model-View-ViewModel (MVVM) Explained](https://www.codeproject.com/Articles/100175/Model-View-ViewModel-MVVM-Explained) - CodeProject.
 - 📜 [What is the difference between MVC and MVVM?](https://stackoverflow.com/questions/667781/what-is-the-difference-between-mvc-and-mvvm) - Stack Overflow.
 - 📜 [What are MVP and MVC and what is the difference?](https://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference) - Stack Overflow.
 - 📜 [What is the MVVM design pattern?](https://www.quora.com/What-is-the-MVVM-design-pattern) - Quora.
